@@ -2,12 +2,13 @@
 title: Junk
 nav_include: 3
 ---
+
 hello
 
 world
 
-what's up
+42
 
 ```python
-print('hello world')
+print("hello world")
 ```
